@@ -1,16 +1,28 @@
-# **CLASSIFICATION: D**
+`2026-1012-D-read-001.md`  
 
-Document Reference: `2026-1012-read-D`  
-Version: `1.0`  
-Status: `ACTIVE`  
-Effective Date: `2026-07-30`  
-Next Review: `2027-07-30`  
-Owner / Custodian: `William Murray`  
-Classification Authority: `Founding Chief Architect`  
-Distribution: `OPEN`  
-Supersedes: `—`  
+---
 
-# **AusRewrite‑T5: Australian English Legal Rewriting Engine**  
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1012-D-read-001`  
+# AusRewrite‑T5   
+## Australian English Legal Rewriting Engine  
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A hybrid symbolic–neural rewriting system for converting any English text into strict Australian English with a formal legal register. Focuses on deterministic spelling normalisation, register enforcement, citation‑pattern validation, and semantic rewriting constrained by symbolic rules. Serves as a governed transformation pipeline for legal, academic, and government‑grade prose, integrating regex preprocessing, Prolog rule enforcement, and controlled LLM rewriting.  
+
+**Primary Model / Scheme**: Australian Legal‑Register Rewrite Scheme v0.1 — defines Australian spelling rules, legal‑register constraints, citation‑validation patterns, deterministic grammar and punctuation invariants, and semantic‑rewrite boundaries. Establishes the formal substrate coordinating the regex layer, Prolog rule engine, and LLM rewriter to produce high‑precision, meaning‑preserving Australian‑legal prose.  
+
 
 ---
 
