@@ -1,6 +1,6 @@
 # **CLASSIFICATION: D**
 
-Document Reference: `2026-001-project-D`  
+Document Reference: `2026-1012-read-D`  
 Version: `1.0`  
 Status: `ACTIVE`  
 Effective Date: `2026-07-30`  
