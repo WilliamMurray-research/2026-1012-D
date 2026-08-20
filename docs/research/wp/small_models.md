@@ -1,3 +1,7 @@
+`2026-1012-D/docs/research/wp/`
+
+---
+
 # **Small Models as Sufficient Tools for Structured Research Tasks: A Case Study of Gemma 4 E2B**
 
 ## **Abstract**
