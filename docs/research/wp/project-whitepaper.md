@@ -1,3 +1,7 @@
+`2026-1012-D/docs/research/wp/`
+
+---
+
 # **AusRewrite‑T5 Technical Whitepaper**  
 *A Hybrid Symbolic–Neural System for Deterministic Australian‑English Legal Rewriting*
 
