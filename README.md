@@ -1,10 +1,10 @@
-`2026-1012-D-read-001.md`  
+`2026-1012-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1012-D-read-001`  
+**Document Reference**: `2026-2007-D-read-000`  
 # AusRewrite‑T5   
 ## Australian English Legal Rewriting Engine  
 ### Project    
