@@ -7,9 +7,8 @@
 **Document Reference**: `2026-2007-D-read-000`  
 # AusRewrite‑T5   
 ## Australian English Legal Rewriting Engine  
-### Project    
+### Applied R&D      
 
-**Type**: read   
 **Classification**: D  
 **Version**: 0.1       
 
